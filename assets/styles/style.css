@@ -30,6 +30,7 @@ body {
 
 .cabecalho__menu__link {
     color: #6c9d72;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
 }
@@ -58,7 +59,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .titulo-destaque {
@@ -66,7 +67,7 @@ body {
 }
 
 .apresentacao__conteudo__paragrafo {
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao__links {
@@ -78,7 +79,7 @@ body {
 }
 
 .apresentacao__links__subtitulo {
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao__links__link {
@@ -91,7 +92,7 @@ body {
     width: 280px;
     text-align: center;
     border-radius: 16px;
-    font-size: 18px;
+    font-size: 1.5rem;
     padding: 21.5px 0;
     text-decoration: none;
     color: var(--text);
@@ -114,4 +115,5 @@ body {
     padding: 30px 0;
     text-align: center;
     font-weight: 600;
+    font-size: 1.5rem;
 }
