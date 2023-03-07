@@ -47,7 +47,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    width: 615px;
+    width: 50%;
 }
 
 .sobre-mim__conteudo ul {
@@ -89,7 +89,7 @@ body {
     gap: 16px;
     background-color: #e5f1e7;
     border: 3px solid var(--primary);
-    width: 280px;
+    width: 50%;
     text-align: center;
     border-radius: 16px;
     font-size: 1.5rem;
@@ -106,7 +106,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 23em;
+    width: 50%;
 }
 
 .rodape {
