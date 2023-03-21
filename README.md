@@ -46,7 +46,7 @@ git clone https://github.com/strawndri/portfolio-IV.git
 2. Localizar e acessar a pasta "portfolio-IV";
 3. Dar um duplo click no arquivo "index.html".
 
-Caso não queria realizar o processo acima, você pode acessar o site a partir do Github Pages:
+Caso não queria realizar o processo acima, você pode acessar o site abaixo:
 - [Meu portfólio na Vercel](https://portfolio-iv.vercel.app/)
 
 ## Tecnologias
