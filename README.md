@@ -1,5 +1,4 @@
-
-<h1 align="center" Portfólio </h1>
+<h1 align="center"> 👩‍💻 Portfólio 👩‍💻</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/pNCeVrE.png" alt='Banner. Imagem com fundo cor-de-rosa com uma borda cinza escuro em seu entorno. Ao centro, há um retângulo cinza escuro com o texto: "HTML e CSS: trabalhando com responsividade e publicação de projetos". Ao lado esquerdo desse retângulo, há um ícone com o texto "CSS" e uma imagem representativa da linguagem CSS em azul, no centro dela há o número três. Ao lado direito do retângulo, há um ícone com o texto "HTML" e uma imagem representativa da linguagem HTML em alaranjado, no centro dela há o número cinco. Abaixo do retângulo cinza, há um retângulo menor cor-de-rosa, nele está escrito "Porfólio".' />
